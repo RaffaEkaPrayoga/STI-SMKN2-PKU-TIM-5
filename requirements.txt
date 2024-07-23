@@ -1,7 +1,7 @@
 plotly-express
 streamlit
 langchain-openai==0.0.110
-pydantic==2.8.0
+pydantic==1.10.0
 pandas
 numpy
 scikit-learn
