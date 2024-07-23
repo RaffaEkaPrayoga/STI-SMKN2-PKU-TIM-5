@@ -1,1 +1,10 @@
 plotly-express
+streamlit
+langchain-openai
+os
+sqlite3
+pandas
+datetime
+numpy
+pickle
+extra-streamlit-components
