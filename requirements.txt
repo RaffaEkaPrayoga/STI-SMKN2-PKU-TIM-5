@@ -6,3 +6,4 @@ numpy
 scikit-learn
 extra-streamlit-components
 python-dotenv
+langchain
