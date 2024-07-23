@@ -1,7 +1,7 @@
 plotly-express
 streamlit
-langchain-openai==0.0.95  # specify your langchain version
-pydantic==1.10.2  # example version, adjust as needed
+langchain-openai
+pydantic
 pandas
 numpy
 scikit-learn
