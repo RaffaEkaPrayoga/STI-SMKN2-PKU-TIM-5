@@ -8,3 +8,6 @@ datetime
 numpy
 pickle
 extra-streamlit-components
+scikit-learn
+csv
+dotenv
