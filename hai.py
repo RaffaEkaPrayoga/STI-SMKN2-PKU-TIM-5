@@ -9,15 +9,6 @@ import numpy as np
 import plotly.express as px
 import pickle
 import streamlit.components.v1 as components
-import logging
-import os
-
-# Setup logging
-logging.basicConfig(level=logging.DEBUG)
-
-# Check if model files exist
-logging.debug(f"Current working directory: {os.getcwd()}")
-logging.debug(f"Files in the directory: {os.listdir('.')}")
 
 # Memuat variabel lingkungan dari .env
 load_dotenv()
