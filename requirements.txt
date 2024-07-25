@@ -1,6 +1,6 @@
 plotly-express
 streamlit
-langchain-openai
+langchain
 pydantic
 pandas
 numpy
