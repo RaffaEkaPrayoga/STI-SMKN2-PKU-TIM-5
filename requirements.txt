@@ -1,6 +1,7 @@
 plotly-express
 streamlit
 langchain
+langchain-openai
 pandas
 numpy==1.24.2
 scikit-learn==1.2.1
