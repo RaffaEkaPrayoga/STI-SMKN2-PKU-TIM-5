@@ -7,3 +7,4 @@ scikit-learn==1.2.1
 extra-streamlit-components
 python-dotenv==1.0.0
 datetime
+pickle
