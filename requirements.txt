@@ -1,5 +1,4 @@
 plotly-express
-streamlit
 langchain
 langchain-openai
 pandas
