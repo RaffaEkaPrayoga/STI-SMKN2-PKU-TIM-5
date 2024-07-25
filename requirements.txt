@@ -1,9 +1,9 @@
 plotly-express==0.4.1
 streamlit==1.20.0
-langchain==0.8.1
-pydantic==1.10.5
+langchain
 pandas==2.0.1
 numpy==1.24.2
 scikit-learn==1.2.1
 extra-streamlit-components==0.1.0
 python-dotenv==1.0.0
+datetime
