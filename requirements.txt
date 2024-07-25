@@ -8,3 +8,4 @@ scikit-learn
 extra-streamlit-components
 python-dotenv
 datetime
+langchain-community
