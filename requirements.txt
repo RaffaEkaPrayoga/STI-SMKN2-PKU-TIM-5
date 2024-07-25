@@ -1,5 +1,5 @@
 plotly-express
-streamlit
+streamlit==1.36.0
 langchain
 pandas
 numpy==1.24.2
