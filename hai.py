@@ -171,8 +171,7 @@ def set_bg(url: str):
      )
     return
     
-set_bg("https://cdn.gencraft.com/prod/user/14e836fe-1fce-4f67-b5f3-fa2f86c26b7c/83b9d223-ff81-47a5-8e7e-9d9b29f9b8b1/image/image1_0.jpg?Expires=1721814032&Signature=fo9zMVldq1bBGP2NYuf14ybKWvOmebtLkrNNg0IKILYorNxt-6lWv32KT14PLeOrPc9s5SWwge5dXTdHR51Vlh2UOhvtZBtktA2u-3rMno6~CbxLqmHxPE6Bz-euli4SiPpbt6nhIjhHRUGJFzlKg~2ceOM3Az7GDcL57KZ5C472s5WdpGd5RVcFVAzKSE5VJ383HWQR9LKusD4mMFKf51-6q4keSc69a2rpxTtFdRzLO7rKpHL0DVykao--reWuwSqYi6IG6UVXFwmoZYs6neg28LsRGqVjup4wg8xKOmFL~de1CYB4Db2mclF9biVXz~Uab~PbtIg~xBFRwsKjdw__&Key-Pair-Id=K3RDDB1TZ8BHT8")
-
+set_bg("https://cdn.gencraft.com/prod/user/14e836fe-1fce-4f67-b5f3-fa2f86c26b7c/83b9d223-ff81-47a5-8e7e-9d9b29f9b8b1/image/image1_0.jpg?Expires=1721988048&Signature=b2kxF2dvn0EHxv4K4JQ~pFhrAXEBRj3ay0LnX2polij-fuUT8lvl28WLKsIcTLoDijz2CK91ai8JBewF7rgS30wFcH~mOFQNEz-DG1pysMT~4HjuUZeBnUc5zNbf8Xcyp6kV0P2rw4Wh83AhRrAv20CRQJSMIa~lmcjucBYeSmDqgm63EKb8NuBXSfwhqPlPNnr1hyBodRzzAQx8RID2Bva5sIvgtGVPYGs1XaRLF0XkUecjuyJ0MRAFvfie4zFQvaO3AQx1a4T2O5NmZCvmvo1GllxADPlzqcpUA4VzXyQOm-lpOHBLDdPGJO93Xl6D~-uzbGiklJ60eV1FuP6pqA__&Key-Pair-Id=K3RDDB1TZ8BHT8")
 # Streamlit App
 st.title('Sistem Pemantauan dan Peringatan Dini Kualitas Udara Untuk Sekolah Pedesaan')
 
