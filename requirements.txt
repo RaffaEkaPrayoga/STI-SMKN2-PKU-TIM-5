@@ -6,4 +6,4 @@ scikit-learn==1.5.1
 extra-streamlit-components==0.1.71
 python-dotenv==1.0.1
 datetime
-pydanctic
+pydantic
