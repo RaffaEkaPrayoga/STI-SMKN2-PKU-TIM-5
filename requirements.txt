@@ -9,3 +9,8 @@ extra-streamlit-components
 python-dotenv==1.0.0
 datetime
 streamlit==1.36.0
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
