@@ -44,4 +44,6 @@ Proyek ini bertujuan untuk mengembangkan sistem pemantauan kualitas udara dan pe
 ## Instalasi
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/username/project-name.git](https://github.com/RaffaEkaPrayoga/STI-SMKN2-PKU-TIM-5
+
+#Untuk Link Streamlit berada di Hai.py
